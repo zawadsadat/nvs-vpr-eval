@@ -65,10 +65,12 @@ We use [**GenWarp**](https://github.com/sony/genwarp/) (NeurIPS 2024) to generat
 
 ```
 nvs-vpr-eval/
+├── assets/                  # Diagrams for README
 ├── images/                  # VPR dataset images (5 datasets)
 ├── datasets/                # Ground truth and dataset metadata
 ├── feature_extraction/      # Image descriptor extraction modules
 ├── feature_aggregation/     # Descriptor aggregation methods
+├── genwarp_script/          # Script to use in genwarp
 ├── matching/                # Image matching logic
 ├── evaluation/              # AUC and recall metric computation
 ├── output_images/           # Visualizations: PR curves, matchings, TP/FP examples
@@ -77,7 +79,6 @@ nvs-vpr-eval/
 ├── dataset                  # Dataset config/loader
 ├── setup.py                 # Package setup
 ├── requirements.txt         # Python dependencies
-├── .gitmodules              # Submodule references (GenWarp)
 └── README.md
 ```
 
