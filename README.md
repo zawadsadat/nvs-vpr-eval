@@ -38,7 +38,7 @@
 This repository accompanies the paper:
 
 > **Systematic Evaluation of Novel View Synthesis for Video Place Recognition**  
-> *Submitted to IEEE. Copyright may be transferred without notice.*
+> *Submitted to IEEE IROS 2026.*
 
 We investigate whether synthetic novel views generated from single images can be injected into VPR datasets to improve place recognition — a proxy for evaluating whether novel view synthesis is useful for robot navigation (e.g., ground-to-aerial view matching).
 
