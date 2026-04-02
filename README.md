@@ -335,7 +335,7 @@ After running the demo, two output files are written per dataset in `output_imag
   (as in Fig. 3 of the paper — clockwise from TL).
   Replace the src below with your actual image path or URL.
 -->
-![Example matching from GardensPoint dataset](assets/examples_tp_fp.jpg.png)
+![Example matching from GardensPoint dataset](assets/examples_tp_fp.jpg)
 
 > Query injection results are reported in the paper (Table IV). The tables below provide supplementary reference injection results.
 >
