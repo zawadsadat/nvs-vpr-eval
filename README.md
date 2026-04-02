@@ -134,7 +134,7 @@ mamba create -n nvs-vpr python numpy pytorch torchvision natsort tqdm opencv pil
 python3 demo.py --dataset GardensPoint  --descriptor NetVLAD
 ```
 
-You should see output similar to:
+You should see output similar to the ones below:
 
 ```
 ========== Start VPR with NetVLAD descriptor on dataset GardensPoint
